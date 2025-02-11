@@ -1,5 +1,5 @@
 # udpconnection
-This repo's got two programs, one that sends and another that reeives using the udp protocol. 
+This repo's got two programs, one that sends and another that recives using the udp protocol on the trasnsport layer.
 REMEMBER: UDP is connectionless 
 
 
